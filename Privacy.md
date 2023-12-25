@@ -38,5 +38,5 @@ By using the Converter App and enabling iCloud CloudKit syncing, you consent to 
 
 9. Contact Us
 
-If you have questions or concerns about this Privacy Policy or the Converter App's use of iCloud CloudKit, please contact us at [conversionapp@ryanwilde.org]("mailto:conversionapp@ryanwilde.org").
+If you have questions or concerns about this Privacy Policy or the Converter App's use of iCloud CloudKit, please contact us at [conversionapp@ryanwilde.org](mailto:conversionapp@ryanwilde.org).
 
