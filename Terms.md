@@ -24,7 +24,7 @@ We provide the App "as is" without any guarantees. It might not always work perf
 We're not liable for any indirect damages or losses related to your use of the App. This includes data loss or any harm that comes from using the App.
 
 ## Governing Law
-These terms are governed by the laws of [Your State/Country].
+These terms are governed by the laws of New Zealand.
 
 ## Changes to These Terms
 We can change these terms anytime. We suggest you review them regularly.
